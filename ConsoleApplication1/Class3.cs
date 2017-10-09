@@ -8,5 +8,7 @@ namespace ConsoleApplication1
 {
     class Class3
     {
+        string str = "Shital";
+        string str1="Bhushan";
     }
 }
